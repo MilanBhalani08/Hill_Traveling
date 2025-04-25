@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: road
+    uniqueID: 2184203153
+    locked: 0
+  - name: wheel1
+    uniqueID: 3291442863
+    locked: 0
+  - name: wheel2
+    uniqueID: 3472371283
+    locked: 0
+  - name: body
+    uniqueID: 4203196743
+    locked: 0
+  - name: head
+    uniqueID: 4186325335
+    locked: 0
